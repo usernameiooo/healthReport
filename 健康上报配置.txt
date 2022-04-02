@@ -1,0 +1,11 @@
+Environment{
+account='771522380@qq.com'
+, authCode='jmikvrotkkfjbeig'
+, time=10
+}
+User{
+account='201824100518'
+, password='2012__Ok'
+, name='huang'
+, mail='771522380@qq.com'
+}
