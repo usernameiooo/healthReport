@@ -14,6 +14,8 @@
     java -Dfile.encoding=utf-8 -jar healthReport.jar
     pause
  ```
-  <br/>注意要使jar包运行才能自动进行健康上报。电脑重启或程序关闭会导致不能自动进行健康上报
+注意要使jar包运行才能自动进行健康上报。电脑重启或程序关闭会导致不能自动进行健康上报
+<br/> 
  配置后运行效果
  ![image](https://user-images.githubusercontent.com/74187392/161384915-734dfb34-4320-49cd-8a65-8b83feb296d2.png)
+android版 https://github.com/usernameiooo/healthReport-android
