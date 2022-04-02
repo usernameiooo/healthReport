@@ -5,7 +5,7 @@
  - 1.生成jar包
  - 运行jar包，进行第一次使用的配置。会在jar包所在目录下生成配置文件
  - 后续运行无需再进行配置 
- 注意要使jar包运行才能自动进行健康上报。电脑重启或程序关闭会导致不能自动进行健康上报
+ 
  
  建议创建bat文件，将bat文件和jar包放在同目录下（桌面创建bat文件的快捷方式），可以通过双击bat文件运行jar包。<br/>
  bat文件内容
@@ -14,5 +14,6 @@
     java -Dfile.encoding=utf-8 -jar healthReport.jar
     pause
  ```
+  <br/>注意要使jar包运行才能自动进行健康上报。电脑重启或程序关闭会导致不能自动进行健康上报
  配置后运行效果
  ![image](https://user-images.githubusercontent.com/74187392/161384915-734dfb34-4320-49cd-8a65-8b83feb296d2.png)
